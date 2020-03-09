@@ -1,6 +1,4 @@
-package unosquare.tubular;
-
-import unosquare.tubular.common.*;
+package unosquare.tubular.common;
 
 public class Filter {
 	

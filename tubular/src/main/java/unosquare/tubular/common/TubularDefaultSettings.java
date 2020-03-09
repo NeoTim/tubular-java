@@ -1,4 +1,4 @@
-package unosquare.tubular;
+package unosquare.tubular.common;
 
 public class TubularDefaultSettings {
 	public static boolean adjustTimezoneOffset;
